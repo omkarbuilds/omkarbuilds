@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developing scalable backend services and AI/ML-based NLP applications like Movie Sentiment Analysis and Resume Screening Systems. pen-source AI/ML projects, Data Science initiatives, and innovative Python-based backend solutions. Advanced Machine Learning deployment strategies and optimizing deep learning models. PyTorch, advanced NLP techniques, and cloud-based scalable deployment workflows. Python, SQL, REST APIs, Machine Learning pipelines, and Software Development life cycles. love turning noisy datasets into actionable insights and recently won the AI & ML track at the TechForge Hackathon 2026!<br><br>
+Developing scalable backend services and AI/ML-based NLP applications like Movie Sentiment Analysis and Resume Screening Systems at Pace Wisdom Solutions as an SDE Intern. Open-source AI/ML projects, Data Science initiatives, and innovative Python-based backend solutions. Advanced Machine Learning deployment strategies and optimizing deep learning models. PyTorch, advanced NLP techniques, and cloud-based scalable deployment workflows. Python, SQL, REST APIs, Machine Learning pipelines, and Software Development life cycles. I love turning noisy datasets into actionable insights and recently won the AI & ML track at the TechForge Hackathon 2026!<br><br>
 
 
 ## 🌐 Socials:
